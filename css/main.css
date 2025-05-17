@@ -60,6 +60,13 @@ body {
     font-family: 'Comic Sans MS', cursive, sans-serif;
   }
 
+  h2 {
+    font-size: 30px;
+    color: #1800cc;
+    text-align: center;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+  }
+
   .boton {
     display: inline-block;
     padding: 10px 20px;

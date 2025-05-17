@@ -28,6 +28,8 @@ btnSi.addEventListener('click', function () {
         btnSi.style.display = 'none';
         btnNo.style.display = 'none';
         mensaje.textContent = '❤ ¡Eres la casualidad más bonita que me ha pasado! 🥰❤';
+        mensaje1.textContent = 'Qiero saber tu respuesta 981418459';
+
     });
 });
 
